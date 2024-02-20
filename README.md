@@ -1,8 +1,8 @@
 # Tour
 
 <h4 align="center">
-  <span>Project Live Demo -> (https://hamidamini1991.github.io/Tour/) </span>
-  <a href="" target="_blank">Demo</a>
+  <span>Project Live Demo -> () </span>
+  <a href="https://hamidamini1991.github.io/Tour/" target="_blank">Demo</a>
   |
   <span>Give Tips -> </span>
   <a href="" target="_blank">Telgram</a>
