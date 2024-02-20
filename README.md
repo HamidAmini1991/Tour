@@ -32,7 +32,7 @@
   <a href="https://instagram.com/hamidamini_fe2024" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamidrjpr3" height="40" width="50" />
   </a>
-  <a href="https://github.com/hamidamini1991">
+  <a href="https://github.com/HamidAmini1991">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="40">
   </a>
 </p>
